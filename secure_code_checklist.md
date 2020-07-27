@@ -88,13 +88,5 @@ A starter secure code review checklist
 - [ ] User input is sanitized and validated before being placed in application logs
 
 
-#### Sources:
-
-- Modelled after: [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [Secure Code Review Checklist]()https://arch.simplicable.com/arch/new/secure-code-review-checklist)
-- [Internal Software Secured Checklist](Private)
-- [Code Review Checklist – To Perform Effective Code Reviews](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
-- [Java Code Review Checklist](https://dzone.com/articles/java-code-review-checklist)
-- [Software Integrity](https://www.synopsys.com/blogs/software-security/code-review-checklist/)
-- [Security Audit Checklist: Code Perspective](https://courses.cs.washington.edu/courses/cse403/10wi/lectures/security_audit_checklist.pdf)
-- [Stop More Bugs with out Code Review Checklist](https://jesseheines.com/~heines/91.462/Resources/CodeReviewChecklists/StopMoreBugsWithOurCodeReviewChecklist_FogCreekBlog_2015-03-23.pdf)
+#### Reference
+- https://github.com/softwaresecured/secure-code-review-checklist/edit/master/README.md
