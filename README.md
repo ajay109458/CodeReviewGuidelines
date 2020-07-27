@@ -18,3 +18,24 @@ Fix
 let message = isPositionCorrect ? "Position Correct" : "Position InCorrect"
 updateUI(message, isPositionCorrect)
 ```
+
+#### Returning boolean
+
+Example
+```
+func isItemExist(x: Int, items: [Int]) -> Bool {
+    if items.contains(x) {
+        return true
+    }
+    else {
+        return false
+    }
+}
+```
+
+Fix 
+```
+func isItemExist(x: Int, items: [Int]) -> Bool {
+    return items.contains(x)
+}
+```
